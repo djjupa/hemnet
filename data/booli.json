@@ -1,0 +1,1296 @@
+{
+    "count": 35, 
+    "searchParams": {
+        "areaId": 389
+    }, 
+    "sold": [
+        {
+            "booliId": 1942542, 
+            "livingArea": 40, 
+            "url": "https://www.booli.se/bostad/lagenhet/kasernhojden/kasernhojden+11a/1942542", 
+            "constructionYear": 1913, 
+            "soldPrice": 895000, 
+            "source": {
+                "url": "http://www.skandiamaklarna.se/", 
+                "type": "Broker", 
+                "name": "SkandiaM\u00e4klarna", 
+                "id": 1570
+            }, 
+            "soldDate": "2015-09-07", 
+            "rooms": 1, 
+            "published": "2015-08-28 11:43:50", 
+            "rent": 2152, 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 895000, 
+            "location": {
+                "position": {
+                    "latitude": 59.38853015, 
+                    "longitude": 13.4910122
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Kasernh\u00f6jden"
+                ], 
+                "address": {
+                    "streetAddress": "Kasernh\u00f6jden 11A"
+                }
+            }
+        }, 
+        {
+            "booliId": 1921223, 
+            "livingArea": 104, 
+            "url": "https://www.booli.se/bostad/fritidshus/molkom/ostra+laskerud+407/1921223", 
+            "constructionYear": 1909, 
+            "plotArea": 3656, 
+            "soldPrice": 335000, 
+            "source": {
+                "url": "http://www.lansfast.se/", 
+                "type": "Broker", 
+                "name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsf\u00f6rmedling", 
+                "id": 64
+            }, 
+            "soldDate": "2015-09-07", 
+            "rooms": 4, 
+            "published": "2015-07-21 13:04:11", 
+            "objectType": "Fritidshus", 
+            "listPrice": 375000, 
+            "location": {
+                "position": {
+                    "latitude": 59.57144997, 
+                    "longitude": 13.83722615
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Molkom"
+                ], 
+                "address": {
+                    "streetAddress": "\u00d6stra Laskerud 407"
+                }
+            }
+        }, 
+        {
+            "booliId": 1936732, 
+            "livingArea": 58, 
+            "floor": 3, 
+            "url": "https://www.booli.se/bostad/lagenhet/kvarnberget/farnebogatan+4/1936732", 
+            "rooms": 2, 
+            "soldPrice": 1000000, 
+            "source": {
+                "url": "http://www.skandiamaklarna.se/", 
+                "type": "Broker", 
+                "name": "SkandiaM\u00e4klarna", 
+                "id": 1570
+            }, 
+            "soldDate": "2015-09-07", 
+            "location": {
+                "position": {
+                    "latitude": 59.37728459, 
+                    "longitude": 13.48429968
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Kvarnberget"
+                ], 
+                "address": {
+                    "streetAddress": "F\u00e4rnebogatan 4"
+                }
+            }, 
+            "published": "2015-08-19 20:50:53", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 795000, 
+            "rent": 3070
+        }, 
+        {
+            "booliId": 1932952, 
+            "livingArea": 108, 
+            "url": "https://www.booli.se/bostad/villa/mjolnartorpet/jontes+backe+9/1932952", 
+            "constructionYear": 1976, 
+            "plotArea": 780, 
+            "soldPrice": 2615000, 
+            "source": {
+                "url": "http://www.lansfast.se/", 
+                "type": "Broker", 
+                "name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsf\u00f6rmedling", 
+                "id": 64
+            }, 
+            "soldDate": "2015-09-07", 
+            "rooms": 4, 
+            "published": "2015-08-14 10:40:38", 
+            "objectType": "Villa", 
+            "listPrice": 1975000, 
+            "location": {
+                "position": {
+                    "latitude": 59.40441, 
+                    "longitude": 13.594684
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Mj\u00f6lnartorpet"
+                ], 
+                "address": {
+                    "streetAddress": "Jontes Backe 9"
+                }
+            }
+        }, 
+        {
+            "booliId": 1928931, 
+            "livingArea": 58, 
+            "floor": 1, 
+            "url": "https://www.booli.se/bostad/lagenhet/farjestad/norra+infarten+100/1928931", 
+            "rooms": 2, 
+            "soldPrice": 515000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-09-05", 
+            "location": {
+                "position": {
+                    "latitude": 59.41339995, 
+                    "longitude": 13.49378899
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "F\u00e4rjestad"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Norra Infarten 100"
+                }
+            }, 
+            "published": "2015-08-07 17:14:16", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 495000, 
+            "rent": 4949
+        }, 
+        {
+            "booliId": 1923525, 
+            "livingArea": 75, 
+            "floor": 3, 
+            "url": "https://www.booli.se/bostad/lagenhet/sundsta/lignellsgatan+15a/1923525", 
+            "constructionYear": 1945, 
+            "rooms": 3, 
+            "soldPrice": 750000, 
+            "source": {
+                "url": "http://www.skandiamaklarna.se/", 
+                "type": "Broker", 
+                "name": "SkandiaM\u00e4klarna", 
+                "id": 1570
+            }, 
+            "soldDate": "2015-09-05", 
+            "location": {
+                "position": {
+                    "latitude": 59.39465251, 
+                    "longitude": 13.51582581
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Sundsta"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Lignellsgatan 15A"
+                }
+            }, 
+            "published": "2015-08-01 18:06:47", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 850000, 
+            "rent": 3809
+        }, 
+        {
+            "booliId": 1937704, 
+            "livingArea": 45, 
+            "floor": 3, 
+            "url": "https://www.booli.se/bostad/lagenhet/rud/horsensgatan+56/1937704", 
+            "constructionYear": 1971, 
+            "rooms": 1, 
+            "soldPrice": 670000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-09-04", 
+            "location": {
+                "position": {
+                    "latitude": 59.40915053, 
+                    "longitude": 13.52069482
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Rud"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Horsensgatan 56"
+                }
+            }, 
+            "published": "2015-08-20 20:33:31", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 550000, 
+            "rent": 2417
+        }, 
+        {
+            "booliId": 1937099, 
+            "livingArea": 95, 
+            "url": "https://www.booli.se/bostad/villa/farjestad/aringsgatan+4/1937099", 
+            "constructionYear": 1953, 
+            "plotArea": 797, 
+            "soldPrice": 2200000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-09-04", 
+            "location": {
+                "position": {
+                    "latitude": 59.406517, 
+                    "longitude": 13.510901
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "F\u00e4rjestad"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "\u00c4ringsgatan 4"
+                }
+            }, 
+            "published": "2015-08-20 13:52:38", 
+            "additionalArea": 95, 
+            "objectType": "Villa", 
+            "listPrice": 1695000, 
+            "rooms": 4
+        }, 
+        {
+            "booliId": 1935298, 
+            "livingArea": 59, 
+            "floor": 2, 
+            "url": "https://www.booli.se/bostad/lagenhet/klara/norra+klaragatan+7/1935298", 
+            "constructionYear": 1941, 
+            "rooms": 2, 
+            "soldPrice": 1620000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-09-04", 
+            "location": {
+                "position": {
+                    "latitude": 59.38395787, 
+                    "longitude": 13.49498523
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Klara"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Norra Klaragatan 7"
+                }
+            }, 
+            "published": "2015-08-18 00:54:51", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 1425000, 
+            "rent": 2470
+        }, 
+        {
+            "booliId": 1936079, 
+            "livingArea": 82, 
+            "floor": 1, 
+            "url": "https://www.booli.se/bostad/lagenhet/rud/fadderortsgatan+23/1936079", 
+            "rooms": 3, 
+            "soldPrice": 905000, 
+            "source": {
+                "url": "http://www.svenskfast.se/", 
+                "type": "Broker", 
+                "name": "Svensk Fastighetsf\u00f6rmedling", 
+                "id": 713
+            }, 
+            "soldDate": "2015-09-04", 
+            "location": {
+                "position": {
+                    "latitude": 59.403376, 
+                    "longitude": 13.518618
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Rud"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Fadderortsgatan 23"
+                }
+            }, 
+            "published": "2015-08-19 12:22:47", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 775000, 
+            "rent": 3904
+        }, 
+        {
+            "booliId": 1938257, 
+            "livingArea": 50, 
+            "url": "https://www.booli.se/bostad/lagenhet/kvarnberget/olmegatan+14b/1938257", 
+            "soldPrice": 1050000, 
+            "source": {
+                "url": "http://www.skandiamaklarna.se/", 
+                "type": "Broker", 
+                "name": "SkandiaM\u00e4klarna", 
+                "id": 1570
+            }, 
+            "soldDate": "2015-09-04", 
+            "rooms": 2, 
+            "published": "2015-08-24 18:39:20", 
+            "rent": 2647, 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 895000, 
+            "location": {
+                "position": {
+                    "latitude": 59.37746345, 
+                    "longitude": 13.48476261
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Kvarnberget"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "\u00d6lmegatan 14B"
+                }
+            }
+        }, 
+        {
+            "booliId": 1929970, 
+            "livingArea": 76.5, 
+            "floor": 4, 
+            "url": "https://www.booli.se/bostad/lagenhet/herrhagen/varmlandsgatan+9/1929970", 
+            "constructionYear": 1990, 
+            "rooms": 3, 
+            "soldPrice": 1350000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-09-04", 
+            "location": {
+                "position": {
+                    "latitude": 59.3798388, 
+                    "isApproximate": true, 
+                    "longitude": 13.519183
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Herrhagen"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "V\u00e4rmlandsgatan 9"
+                }
+            }, 
+            "published": "2015-08-10 10:40:43", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 995000, 
+            "rent": 4387
+        }, 
+        {
+            "booliId": 1936633, 
+            "livingArea": 55.5, 
+            "floor": 3, 
+            "url": "https://www.booli.se/bostad/lagenhet/lamberget/tulegatan+2b/1936633", 
+            "constructionYear": 1952, 
+            "rooms": 2, 
+            "soldPrice": 950000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-09-03", 
+            "location": {
+                "position": {
+                    "latitude": 59.3796988, 
+                    "longitude": 13.53212859
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Lamberget"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Tulegatan 2B"
+                }
+            }, 
+            "published": "2015-08-19 20:07:45", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 725000, 
+            "rent": 3842
+        }, 
+        {
+            "booliId": 1887510, 
+            "livingArea": 123, 
+            "url": "https://www.booli.se/bostad/radhus/gustavsberg/alfens+vag+6/1887510", 
+            "constructionYear": 1970, 
+            "plotArea": 518, 
+            "soldPrice": 1650000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-09-03", 
+            "location": {
+                "position": {
+                    "latitude": 59.38776913, 
+                    "longitude": 13.45599701
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Gustavsberg"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Alfens v\u00e4g 6"
+                }
+            }, 
+            "published": "2015-08-01 00:34:26", 
+            "additionalArea": 19, 
+            "objectType": "Radhus", 
+            "listPrice": 1750000, 
+            "rooms": 6
+        }, 
+        {
+            "booliId": 1930475, 
+            "livingArea": 57, 
+            "floor": -1, 
+            "url": "https://www.booli.se/bostad/lagenhet/sommarro/oldevigsgatan+1/1930475", 
+            "constructionYear": 1970, 
+            "rooms": 2, 
+            "soldPrice": 1600000, 
+            "source": {
+                "url": "http://www.skandiamaklarna.se/", 
+                "type": "Broker", 
+                "name": "SkandiaM\u00e4klarna", 
+                "id": 1570
+            }, 
+            "soldDate": "2015-09-02", 
+            "location": {
+                "position": {
+                    "latitude": 59.37104131, 
+                    "longitude": 13.47511951
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Sommarro"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Oldevigsgatan 1"
+                }
+            }, 
+            "published": "2015-08-24 18:30:47", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 1450000, 
+            "rent": 2735
+        }, 
+        {
+            "booliId": 1940082, 
+            "livingArea": 90, 
+            "floor": 3, 
+            "url": "https://www.booli.se/bostad/lagenhet/herrhagen/stagnellsgatan+9/1940082", 
+            "constructionYear": 1904, 
+            "rooms": 3, 
+            "soldPrice": 2710000, 
+            "source": {
+                "url": "http://www.husmanhagberg.se/", 
+                "type": "Broker", 
+                "name": "HusmanHagberg", 
+                "id": 1610
+            }, 
+            "soldDate": "2015-09-02", 
+            "location": {
+                "position": {
+                    "latitude": 59.37735208, 
+                    "longitude": 13.51298047
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Herrhagen"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Stagnellsgatan 9"
+                }
+            }, 
+            "published": "2015-08-25 13:38:57", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 2350000, 
+            "rent": 4140
+        }, 
+        {
+            "booliId": 1933953, 
+            "livingArea": 57, 
+            "floor": 3, 
+            "url": "https://www.booli.se/bostad/lagenhet/sundsta/rudsvagen+11c/1933953", 
+            "constructionYear": 1944, 
+            "rooms": 3, 
+            "soldPrice": 1050000, 
+            "source": {
+                "url": "http://www.husmanhagberg.se/", 
+                "type": "Broker", 
+                "name": "HusmanHagberg", 
+                "id": 1610
+            }, 
+            "soldDate": "2015-09-02", 
+            "location": {
+                "position": {
+                    "latitude": 59.39160412, 
+                    "longitude": 13.51559141
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Sundsta"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Rudsv\u00e4gen 11C"
+                }
+            }, 
+            "published": "2015-08-14 19:34:48", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 875000, 
+            "rent": 3720
+        }, 
+        {
+            "booliId": 1922885, 
+            "livingArea": 143, 
+            "url": "https://www.booli.se/bostad/villa/lamberget/lambergsgatan+8/1922885", 
+            "constructionYear": 1927, 
+            "plotArea": 723, 
+            "soldPrice": 2900000, 
+            "source": {
+                "url": "http://www.husmanhagberg.se/", 
+                "type": "Broker", 
+                "name": "HusmanHagberg", 
+                "id": 1610
+            }, 
+            "soldDate": "2015-09-02", 
+            "location": {
+                "position": {
+                    "latitude": 59.37856258, 
+                    "longitude": 13.53340141
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Lamberget"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Lambergsgatan 8"
+                }
+            }, 
+            "published": "2015-08-10 17:54:29", 
+            "additionalArea": 80, 
+            "objectType": "Villa", 
+            "listPrice": 2695000, 
+            "rooms": 5
+        }, 
+        {
+            "booliId": 1932412, 
+            "livingArea": 59, 
+            "floor": 3, 
+            "url": "https://www.booli.se/bostad/lagenhet/centrum/vastra+kanalgatan+11/1932412", 
+            "constructionYear": 1995, 
+            "rooms": 2, 
+            "soldPrice": 1720000, 
+            "source": {
+                "url": "http://www.svenskfast.se/", 
+                "type": "Broker", 
+                "name": "Svensk Fastighetsf\u00f6rmedling", 
+                "id": 713
+            }, 
+            "soldDate": "2015-09-01", 
+            "location": {
+                "position": {
+                    "latitude": 59.3826197, 
+                    "isApproximate": true, 
+                    "longitude": 13.5081591
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Centrum"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "V\u00e4stra Kanalgatan 11"
+                }
+            }, 
+            "published": "2015-08-13 17:43:31", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 1395000, 
+            "rent": 3079
+        }, 
+        {
+            "booliId": 1934316, 
+            "livingArea": 116, 
+            "url": "https://www.booli.se/bostad/villa/lorensberg/dejegatan+4/1934316", 
+            "constructionYear": 1956, 
+            "plotArea": 655, 
+            "soldPrice": 2875000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-09-01", 
+            "location": {
+                "position": {
+                    "latitude": 59.40388485, 
+                    "longitude": 13.53954222
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Lorensberg"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Dejegatan 4"
+                }
+            }, 
+            "published": "2015-08-15 01:50:47", 
+            "additionalArea": 20, 
+            "objectType": "Villa", 
+            "listPrice": 1950000, 
+            "rooms": 5
+        }, 
+        {
+            "booliId": 1934038, 
+            "livingArea": 100, 
+            "floor": 1, 
+            "url": "https://www.booli.se/bostad/lagenhet/herrhagen/bergslagsgatan+3/1934038", 
+            "constructionYear": 1979, 
+            "rooms": 4, 
+            "soldPrice": 2050000, 
+            "source": {
+                "url": "http://www.husmanhagberg.se/", 
+                "type": "Broker", 
+                "name": "HusmanHagberg", 
+                "id": 1610
+            }, 
+            "soldDate": "2015-09-01", 
+            "location": {
+                "position": {
+                    "latitude": 59.3797046, 
+                    "isApproximate": true, 
+                    "longitude": 13.5215231
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Herrhagen"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Bergslagsgatan 3"
+                }
+            }, 
+            "published": "2015-08-14 19:58:12", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 1650000, 
+            "rent": 4229
+        }, 
+        {
+            "booliId": 1933391, 
+            "livingArea": 87, 
+            "floor": 5, 
+            "url": "https://www.booli.se/bostad/lagenhet/viken/stinsgatan+10/1933391", 
+            "constructionYear": 1971, 
+            "rooms": 3, 
+            "soldPrice": 1890000, 
+            "source": {
+                "url": "http://www.skandiamaklarna.se/", 
+                "type": "Broker", 
+                "name": "SkandiaM\u00e4klarna", 
+                "id": 1570
+            }, 
+            "soldDate": "2015-09-01", 
+            "location": {
+                "position": {
+                    "latitude": 59.3766773, 
+                    "isApproximate": true, 
+                    "longitude": 13.4990352
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Viken"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Stinsgatan 10"
+                }
+            }, 
+            "published": "2015-08-24 18:50:37", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 1495000, 
+            "rent": 2789
+        }, 
+        {
+            "booliId": 1930511, 
+            "livingArea": 112, 
+            "url": "https://www.booli.se/bostad/villa/skattkarr/spangavagen+9/1930511", 
+            "constructionYear": 1939, 
+            "plotArea": 1540, 
+            "soldPrice": 1375000, 
+            "source": {
+                "url": "http://www.svenskfast.se/", 
+                "type": "Broker", 
+                "name": "Svensk Fastighetsf\u00f6rmedling", 
+                "id": 713
+            }, 
+            "soldDate": "2015-09-01", 
+            "location": {
+                "position": {
+                    "latitude": 59.417303, 
+                    "longitude": 13.699942
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Skattk\u00e4rr"
+                ], 
+                "address": {
+                    "city": "Skattk\u00e4rr", 
+                    "streetAddress": "Sp\u00e5ngav\u00e4gen 9"
+                }
+            }, 
+            "published": "2015-08-11 00:51:44", 
+            "additionalArea": 45, 
+            "objectType": "Villa", 
+            "listPrice": 1375000, 
+            "rooms": 5
+        }, 
+        {
+            "booliId": 1858167, 
+            "livingArea": 56, 
+            "floor": 1, 
+            "url": "https://www.booli.se/bostad/lagenhet/norrstrand/alvrosgatan+7/1858167", 
+            "constructionYear": 1931, 
+            "rooms": 2, 
+            "soldPrice": 1200000, 
+            "source": {
+                "url": "http://www.husmanhagberg.se/", 
+                "type": "Broker", 
+                "name": "HusmanHagberg", 
+                "id": 1610
+            }, 
+            "soldDate": "2015-08-31", 
+            "location": {
+                "position": {
+                    "latitude": 59.38942708, 
+                    "longitude": 13.52767422
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Norrstrand"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "\u00c4lvrosgatan 7"
+                }
+            }, 
+            "published": "2015-08-04 02:07:52", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 995000, 
+            "rent": 3440
+        }, 
+        {
+            "booliId": 1929131, 
+            "livingArea": 82, 
+            "url": "https://www.booli.se/bostad/villa/ulvsby/opalvagen+55/1929131", 
+            "constructionYear": 1962, 
+            "plotArea": 722, 
+            "soldPrice": 1950000, 
+            "source": {
+                "url": "http://www.svenskfast.se/", 
+                "type": "Broker", 
+                "name": "Svensk Fastighetsf\u00f6rmedling", 
+                "id": 713
+            }, 
+            "soldDate": "2015-08-31", 
+            "location": {
+                "position": {
+                    "latitude": 59.479967, 
+                    "longitude": 13.584822
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Ulvsby"
+                ], 
+                "address": {
+                    "city": "Vallarg\u00e4rdet", 
+                    "streetAddress": "Opalv\u00e4gen 55"
+                }
+            }, 
+            "published": "2015-08-07 17:58:46", 
+            "additionalArea": 82, 
+            "objectType": "Villa", 
+            "listPrice": 1495000, 
+            "rooms": 4
+        }, 
+        {
+            "booliId": 1933259, 
+            "livingArea": 40, 
+            "url": "https://www.booli.se/bostad/fritidshus/mangen/mangen+344/1933259", 
+            "constructionYear": 1963, 
+            "plotArea": 1355, 
+            "soldPrice": 1425000, 
+            "source": {
+                "url": "http://www.lansfast.se/", 
+                "type": "Broker", 
+                "name": "L\u00e4nsf\u00f6rs\u00e4kringar Fastighetsf\u00f6rmedling", 
+                "id": 64
+            }, 
+            "soldDate": "2015-08-31", 
+            "location": {
+                "position": {
+                    "latitude": 59.6414043, 
+                    "longitude": 13.87857848
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Mangen"
+                ], 
+                "address": {
+                    "streetAddress": "M\u00e5ngen 344"
+                }
+            }, 
+            "published": "2015-08-14 14:03:45", 
+            "additionalArea": 10, 
+            "objectType": "Fritidshus", 
+            "listPrice": 1075000, 
+            "rooms": 2
+        }, 
+        {
+            "booliId": 1926926, 
+            "livingArea": 60, 
+            "floor": 3, 
+            "url": "https://www.booli.se/bostad/lagenhet/herrhagen/vasagatan+2b/1926926", 
+            "constructionYear": 1931, 
+            "rooms": 2, 
+            "soldPrice": 1030000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-08-29", 
+            "location": {
+                "position": {
+                    "latitude": 59.37643308, 
+                    "longitude": 13.52099674
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Herrhagen"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Vasagatan 2B"
+                }
+            }, 
+            "published": "2015-08-04 18:31:16", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 895000, 
+            "rent": 3475
+        }, 
+        {
+            "booliId": 1926729, 
+            "livingArea": 108, 
+            "url": "https://www.booli.se/bostad/radhus/mjolnartorpet/skaldens+gata+47/1926729", 
+            "constructionYear": 1995, 
+            "soldPrice": 2730000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-08-29", 
+            "rooms": 4, 
+            "published": "2015-08-14 20:03:23", 
+            "rent": 2749, 
+            "objectType": "Radhus", 
+            "listPrice": 1695000, 
+            "location": {
+                "position": {
+                    "latitude": 59.41197088, 
+                    "longitude": 13.59473867
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Mj\u00f6lnartorpet"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Skaldens gata 47"
+                }
+            }
+        }, 
+        {
+            "booliId": 1844714, 
+            "livingArea": 57.5, 
+            "floor": 1, 
+            "url": "https://www.booli.se/bostad/lagenhet/haga/hagagatan+8e/1844714", 
+            "constructionYear": 1936, 
+            "rooms": 2, 
+            "soldPrice": 1250000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-08-29", 
+            "location": {
+                "position": {
+                    "latitude": 59.38134267, 
+                    "longitude": 13.51471736
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Haga"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Hagagatan 8E"
+                }
+            }, 
+            "published": "2015-05-29 19:09:41", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 1195000, 
+            "rent": 3690
+        }, 
+        {
+            "booliId": 1933048, 
+            "livingArea": 116, 
+            "url": "https://www.booli.se/bostad/villa/skareberget/glimmervagen+7/1933048", 
+            "constructionYear": 1973, 
+            "plotArea": 775, 
+            "soldPrice": 2825000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-08-28", 
+            "location": {
+                "position": {
+                    "latitude": 59.42776069, 
+                    "longitude": 13.43977612
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Sk\u00e5reberget"
+                ], 
+                "address": {
+                    "city": "Sk\u00e5re", 
+                    "streetAddress": "Glimmerv\u00e4gen 7"
+                }
+            }, 
+            "published": "2015-08-14 11:50:29", 
+            "additionalArea": 66, 
+            "objectType": "Villa", 
+            "listPrice": 2295000, 
+            "rooms": 5
+        }, 
+        {
+            "booliId": 1928457, 
+            "livingArea": 32.5, 
+            "floor": 1, 
+            "url": "https://www.booli.se/bostad/lagenhet/norrstrand/norrstrandsgatan+75/1928457", 
+            "constructionYear": 1953, 
+            "rooms": 1, 
+            "soldPrice": 670000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-08-28", 
+            "location": {
+                "position": {
+                    "latitude": 59.39554259, 
+                    "longitude": 13.52768614
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Norrstrand"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Norrstrandsgatan 75"
+                }
+            }, 
+            "published": "2015-08-07 09:32:15", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 495000, 
+            "rent": 1920
+        }, 
+        {
+            "booliId": 1925809, 
+            "livingArea": 60, 
+            "floor": 6, 
+            "url": "https://www.booli.se/bostad/lagenhet/kvarnberget/muraregatan+12/1925809", 
+            "constructionYear": 1984, 
+            "rooms": 2, 
+            "soldPrice": 1275000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-08-28", 
+            "location": {
+                "position": {
+                    "latitude": 59.37687668, 
+                    "longitude": 13.48812879
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Kvarnberget"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Muraregatan 12"
+                }
+            }, 
+            "published": "2015-08-01 01:01:28", 
+            "objectType": "L\u00e4genhet", 
+            "listPrice": 995000, 
+            "rent": 4037
+        }, 
+        {
+            "booliId": 1923005, 
+            "livingArea": 153, 
+            "url": "https://www.booli.se/bostad/villa/hultsberg/lovdalavagen+9/1923005", 
+            "constructionYear": 1976, 
+            "plotArea": 824, 
+            "soldPrice": 2515000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-08-28", 
+            "location": {
+                "position": {
+                    "latitude": 59.3852744, 
+                    "isApproximate": true, 
+                    "longitude": 13.4387561
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Hultsberg"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "L\u00f6vdalav\u00e4gen 9"
+                }
+            }, 
+            "published": "2015-07-25 01:41:25", 
+            "additionalArea": 99, 
+            "objectType": "Villa", 
+            "listPrice": 2375000, 
+            "rooms": 7
+        }, 
+        {
+            "booliId": 1928995, 
+            "livingArea": 168, 
+            "url": "https://www.booli.se/bostad/villa/hultsberg/jungfru+fabers+vag+6/1928995", 
+            "constructionYear": 1976, 
+            "plotArea": 962, 
+            "soldPrice": 3100000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-08-27", 
+            "rooms": 6, 
+            "published": "2015-08-07 17:28:42", 
+            "objectType": "Villa", 
+            "listPrice": 2475000, 
+            "location": {
+                "position": {
+                    "latitude": 59.38847121, 
+                    "longitude": 13.44366048
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "Hultsberg"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Jungfru Fabers v\u00e4g 6"
+                }
+            }
+        }, 
+        {
+            "booliId": 1926712, 
+            "livingArea": 200, 
+            "url": "https://www.booli.se/bostad/villa/ratorp/sannagatan+8a/1926712", 
+            "constructionYear": 1959, 
+            "plotArea": 861, 
+            "soldPrice": 4025000, 
+            "source": {
+                "url": "http://www.fastighetsbyran.se/", 
+                "type": "Broker", 
+                "name": "Fastighetsbyr\u00e5n", 
+                "id": 1573
+            }, 
+            "soldDate": "2015-08-27", 
+            "location": {
+                "position": {
+                    "latitude": 59.40451675, 
+                    "longitude": 13.48618607
+                }, 
+                "region": {
+                    "municipalityName": "Karlstad", 
+                    "countyName": "V\u00e4rmlands l\u00e4n"
+                }, 
+                "namedAreas": [
+                    "R\u00e5torp"
+                ], 
+                "address": {
+                    "city": "Karlstad", 
+                    "streetAddress": "Sannagatan 8A"
+                }
+            }, 
+            "published": "2015-08-04 13:25:40", 
+            "additionalArea": 132, 
+            "objectType": "Villa", 
+            "listPrice": 3975000, 
+            "rooms": 8
+        }
+    ], 
+    "totalCount": 2356, 
+    "limit": 35, 
+    "offset": 0
+}
